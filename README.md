@@ -1,6 +1,6 @@
-# MyRecipeUsing
+# MyRecipe
 
-MyRecipeUsing is a full-stack application for managing recipes.  
+MyRecipe is a full-stack application for managing recipes.  
 It is built with **.NET (backend)**, **Angular (frontend)**, **SQL Server**, and uses **Swagger** for testing API and API documentation. 
 ## Demo
 
