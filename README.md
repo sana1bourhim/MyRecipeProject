@@ -5,7 +5,7 @@ It is built with **.NET (backend)**, **Angular (frontend)**, **SQL Server**, and
 ## Demo
 
 Watch the demo of the application on YouTube:  
-[Watch the demo]([https://youtu.be/your-demo-link](https://youtu.be/wZpvX5NayeI?si=uJVpAB-BaZWmJPvH))
+[Watch the demo](https://youtu.be/your-demo-link](https://youtu.be/wZpvX5NayeI?si=uJVpAB-BaZWmJPvH)
 
 
 ## Features
