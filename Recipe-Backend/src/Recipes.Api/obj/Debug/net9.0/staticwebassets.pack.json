@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\0419c30a-11d8-4bbb-aacd-58633d19d846.webp",
+      "PackagePath": "staticwebassets\\images\\0419c30a-11d8-4bbb-aacd-58633d19d846.webp"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\1544c637-e084-41b6-b135-d9b313ca9d0f.jpg",
+      "PackagePath": "staticwebassets\\images\\1544c637-e084-41b6-b135-d9b313ca9d0f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\2fd0b116-0298-4155-b307-a8831e9a01e8.webp",
+      "PackagePath": "staticwebassets\\images\\2fd0b116-0298-4155-b307-a8831e9a01e8.webp"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\4aad06af-0042-454b-97c2-6e550c812785.png",
+      "PackagePath": "staticwebassets\\images\\4aad06af-0042-454b-97c2-6e550c812785.png"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\596929ee-355e-4962-b9d8-a2b7892aa764.JPG",
+      "PackagePath": "staticwebassets\\images\\596929ee-355e-4962-b9d8-a2b7892aa764.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\74895d13-890b-4e04-af1f-3d02afb0c69e.webp",
+      "PackagePath": "staticwebassets\\images\\74895d13-890b-4e04-af1f-3d02afb0c69e.webp"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\9f044133-8638-4d38-92a8-d6636c8b9f0c.webp",
+      "PackagePath": "staticwebassets\\images\\9f044133-8638-4d38-92a8-d6636c8b9f0c.webp"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\cscs.avif",
+      "PackagePath": "staticwebassets\\images\\cscs.avif"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\d2f0c550-58b2-4405-8d2b-fe77327b6c47.avif",
+      "PackagePath": "staticwebassets\\images\\d2f0c550-58b2-4405-8d2b-fe77327b6c47.avif"
+    },
+    {
+      "Id": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\wwwroot\\images\\f493711c-7dcc-40fc-871a-826fdd9d1c71.webp",
+      "PackagePath": "staticwebassets\\images\\f493711c-7dcc-40fc-871a-826fdd9d1c71.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Recipes.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Recipes.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Recipes.Api.props",
+      "PackagePath": "build\\Recipes.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Recipes.Api.props",
+      "PackagePath": "buildMultiTargeting\\Recipes.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Recipes.Api.props",
+      "PackagePath": "buildTransitive\\Recipes.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\bin\Release\net9.0\Recipes.Domain.deps.json
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\bin\Release\net9.0\Recipes.Domain.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\bin\Release\net9.0\Recipes.Domain.pdb
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.AssemblyInfoInputs.cache
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.AssemblyInfo.cs
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\refint\Recipes.Domain.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\Recipes.Domain.pdb
+C:\Users\elect\Desktop\recipes\src\Recipes.Domain\obj\Release\net9.0\ref\Recipes.Domain.dll

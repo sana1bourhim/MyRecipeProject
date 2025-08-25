@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elect\\Desktop\\recipes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.infrastructure\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|solutionrelative:src\\recipes.infrastructure\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\likes\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\likes\\ilikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\likes\\commands\\togglelikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\likes\\commands\\togglelikecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\likes\\commands\\togglelikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\likes\\commands\\togglelikecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\recipes\\commands\\deleterecipecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\recipes\\commands\\deleterecipecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\recipes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\recipes.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.domain\\likes\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|solutionrelative:src\\recipes.domain\\likes\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.infrastructure\\repositories\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|solutionrelative:src\\recipes.infrastructure\\repositories\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.domain\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|solutionrelative:src\\recipes.domain\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\recipes\\commands\\deleterecipecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\recipes\\commands\\deleterecipecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\recipes\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\recipes\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\queries\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\queries\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|solutionrelative:src\\recipes.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\ iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\ iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|solutionrelative:src\\recipes.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118B65A9-3888-4C55-9DE4-2FD23A773537}|src\\Recipes.Infrastructure\\Recipes.Infrastructure.csproj|solutionrelative:src\\recipes.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAF8DC5-C956-4619-B88D-7FD891B557EB}|src\\Recipes.Domain\\Recipes.Domain.csproj|solutionrelative:src\\recipes.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\commands\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\commands\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.application\\users\\queries\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0267F634-EAF7-4761-BFC1-5A2EB787E849}|src\\Recipes.Application\\Recipes.Application.csproj|solutionrelative:src\\recipes.application\\users\\queries\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|c:\\users\\elect\\desktop\\recipes\\src\\recipes.api\\recipes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E575AB06-8DA0-41F9-9769-FF035A5F3967}|src\\Recipes.Api\\Recipes.Api.csproj|solutionrelative:src\\recipes.api\\recipes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Infrastructure\\Repositories\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\LikeRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Infrastructure\\Repositories\\LikeRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:29:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToggleLikeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommand.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommand.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:11:11.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\ILikeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Likes\\ILikeRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\ILikeRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Likes\\ILikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:06:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Program.cs",
+              "RelativeToolTip": "src\\Recipes.Api\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:51:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToggleLikeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommandHandler.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Likes\\Commands\\ToggleLikeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:12:21.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LikesController.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\LikesController.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Controllers\\LikesController.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\LikesController.cs",
+              "RelativeToolTip": "src\\Recipes.Api\\Controllers\\LikesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:13:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteRecipeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommand.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommand.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommand.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:45:50.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "src\\Recipes.Api\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:28:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Infrastructure\\Repositories\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\RecipeRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Infrastructure\\Repositories\\RecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:29:49.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Likes\\Like.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Domain\\Likes\\Like.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Likes\\Like.cs",
+              "RelativeToolTip": "src\\Recipes.Domain\\Likes\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:03:36.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recipes.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Recipes.Application.csproj",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes.Application.csproj",
+              "RelativeToolTip": "src\\Recipes.Application\\Recipes.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T20:32:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteRecipeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommandHandler.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Recipes\\Commands\\DeleteRecipeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:47:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Recipes\\Recipe.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Domain\\Recipes\\Recipe.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Recipes\\Recipe.cs",
+              "RelativeToolTip": "src\\Recipes.Domain\\Recipes\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:24:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\IRecipeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Recipes\\IRecipeRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Recipes\\IRecipeRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Recipes\\IRecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:33:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Recipes.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:31:40.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Queries\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:10:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": " IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\ IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\ IUserRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\ IUserRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\ IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:08:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Recipes.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:50:55.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Recipes.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:02:35.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:09:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "src\\Recipes.Infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T21:20:49.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Recipes.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:53:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Users\\User.cs",
+              "RelativeToolTip": "src\\Recipes.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:13:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:58:19.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:18:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Commands\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Commands\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Commands\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:20:10.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Recipes.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T21:03:35.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "src\\Recipes.Application\\Users\\Queries\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Application\\Users\\Queries\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "src\\Recipes.Application\\Users\\Queries\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:00:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Recipes.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Recipes.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Recipes.Api\\Recipes.Api.csproj",
+              "ToolTip": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Api\\Recipes.Api.csproj",
+              "RelativeToolTip": "src\\Recipes.Api\\Recipes.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T15:05:02.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

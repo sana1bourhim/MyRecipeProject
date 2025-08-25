@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07zoT5LrpIA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elect\\Desktop\\recipes\\src\\Recipes.Domain\\Recipes.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elect\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

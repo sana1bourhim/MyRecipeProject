@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\Recipes.Api",
+    "\\src\\Recipes.Api\\Controllers",
+    "\\src\\Recipes.Application\\Users",
+    "\\src\\Recipes.Application\\Users\\Handlers",
+    "\\src\\Recipes.Domain\\Likes",
+    "\\src\\Recipes.Domain\\Recipes",
+    "\\src\\Recipes.Domain\\Users",
+    "\\src\\Recipes.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\Recipes.sln",
+  "PreviewInSolutionExplorer": false
+}

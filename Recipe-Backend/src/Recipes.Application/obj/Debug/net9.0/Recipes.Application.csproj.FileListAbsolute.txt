@@ -1,0 +1,15 @@
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.csproj.AssemblyReference.cache
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.AssemblyInfoInputs.cache
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.AssemblyInfo.cs
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.csproj.CoreCompileInputs.cache
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\bin\Debug\net9.0\Recipes.Application.deps.json
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\bin\Debug\net9.0\Recipes.Application.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\bin\Debug\net9.0\Recipes.Application.pdb
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\bin\Debug\net9.0\Recipes.Domain.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\bin\Debug\net9.0\Recipes.Domain.pdb
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes..57B6DD39.Up2Date
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\refint\Recipes.Application.dll
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\Recipes.Application.pdb
+C:\Users\elect\Desktop\recipes\src\Recipes.Application\obj\Debug\net9.0\ref\Recipes.Application.dll
