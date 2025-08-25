@@ -5,8 +5,7 @@ It is built with **.NET (backend)**, **Angular (frontend)**, **SQL Server**, and
 ## Demo
 
 Watch the demo of the application on YouTube:  
-[View the Demo]([https://youtu.be/your-demo-link](https://youtu.be/wZpvX5NayeI?si=uJVpAB-BaZWmJPvH))
-
+https://youtu.be/wZpvX5NayeI?si=uJVpAB-BaZWmJPvH
 ## Features
 
 - Create, read, and delete recipes
